@@ -6,7 +6,7 @@ title: calendar
 1. week
 {:toc}
 
-## Introduction (Aug 20) 
+## Introduction (Aug 19) 
 
 Welcome (back) to the History of Early Latin America. This week, your only responsibility is to carefully read over the syllabus, the course requirements, and to plan for you participation in class! Make sure you understand what the coursework requirements are, and also some general recommendations on how to read, take notes, and think about weekly material.
 
@@ -33,7 +33,7 @@ over the course of the semester, especially how to approach strange texts
 with unfamiliar concepts.
 
 
-## Premodern Societies I (Aug 25)
+## Premodern Societies I (Aug 24)
 
 The immigrants to what we now call the Americas by land and cruising the coasts. The civilizations that evolved from their wanderings were highly complex and advanced. We begin the semester considering their emergence, and the revolutionary domestication of Zea mays that made it possible. To this day, there is no single crop or animal more central to the US economy and its food system than corn.
 
@@ -44,7 +44,7 @@ then at the Maya.
 
 * Mann, Charles C. "1491” The Atlantic Monthly (March 2002).
 
-**The Maya**
+## **The Maya** (Aug 26)
 
 Please watch [Popol
 Vuh](https://video-alexanderstreet-com.proxy.lib.utk.edu/watch/popol-vuh),
@@ -58,7 +58,7 @@ and my own brief lecture on Canvas.
 **DUE: WEEKLY REPORT**
 
 
-## Premodern Societies II (Sep 1)
+## Premodern Societies II (Aug 31)
 
 The collapse of Classical Maya society did not mean the disappearance of
 the Maya. Indeed, Maya-speaking communities continue to form integral
