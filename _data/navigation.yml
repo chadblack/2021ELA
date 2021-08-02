@@ -2,7 +2,7 @@
 
 - title: 2021 ELA
   url: /
-- title: posts
+- title: Posts
   url: /posts/
 - title: syllabus
   url: /syllabus/
@@ -10,14 +10,3 @@
   url: /calendar/
 - title: assignments
   url: /assignments/
-
-# - title: Categories
-#   url: /categories/
-# - title: Tags
-#   url: /tags/
-# - title: Recipes
-#   url: /recipes/
-# - title: Search
-#   url: /search/
-# - title: External Page
-#   url: https://the-page.com/you-want-to-link-to.html
