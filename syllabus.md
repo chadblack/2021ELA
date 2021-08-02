@@ -62,7 +62,11 @@ Portuguese imperialism.
 
 # required readings
 
-All required readings are available on Canvas.
+* Kris Lane and Matthew Restall, *Latin America in Colonial Times,* 2nd Edition (Cambridge:
+  Cambridge University Press, 2018). [Amazon
+  link](https://www.amazon.com/Latin-America-Colonial-Matthew-Restall/dp/1108403468/ref=sr_1_1?dchild=1&keywords=lane+and+restall&qid=1627916397&sr=8-1)
+
+All other required readings are available on Canvas.
 
 # policies
 
@@ -72,10 +76,10 @@ students with disabilities needing appropriate academic adjustments should
 contact me as soon as possible to ensure that your needs are met in a timely
 manner with appropriate documentation.
 
-**Attendance:** Attendance at our Tuesday sessions is mandatory. Thursday
-sessions are asynchronous and can be completed at your leisure during the week.
-Please note that you are responsible for the information from both Tuesday and
-"Thursday" for completing your weekly report.
+**Attendance:** Attendance is mandatory. If you cannot attend, please email the
+Dr. Black or your TA ahead of time. We're not making an Inquisition into your
+absences, so the reasons you can't attend are not as important as giving us the
+heads up.
 
 
 **Deadlines:** Assignments must uploaded to Canvas by the end of the day on
@@ -85,16 +89,15 @@ must contact me and your TA ahead of time. If you contract COVID or some other
 illness, please let us know so that we can work with you.
 
 
-**Cell Phones, Laptops, Zoom:**  Normally, I would put my technology policy here,
-but good grief that's sure out the window this semester! Suffice to say, during
-our Zoom sessions please behave responsibly. The temptation of digital
-distraction will be huge! Please submit questions during the lecture on the
-chat function. The TAs will be monitoring the chat and any of you can answer
-questions that you know. I'll respond as well as needed! Please be respectful.
-Keep your microphones muted, except during breakout groups or if you're called
-on during Tuesday's lecture. If you have the bandwidth, please use your camera,
-especially during breakout groups. The TAs and I may drop in to your breakout
-session. 
+**Cell Phones, Laptops, Zoom:** Cellphones should be put away during class.
+Please do not text or post to the Group Me during class. It is very distracting
+to people around you, and to the professor. Laptops may be used to take notes,
+but I would ask you to seriously consider using paper instead. If you want or
+need to use a laptop, please consider sitting towards the back of the room so
+as to minimize distractions behind you. If we have to utilize Zoom at some
+point, please practice the kind of respectful manners that I'm sure you have
+become used to over the last 15 months. In class and on Zoom, I would invite
+you to interrupt me with questions during lecture.
 
 Research shows that analog note-taking improves learning. Consider having paper
 with you. Based on the prevailing literature, hand note-taking-- both while
@@ -106,15 +109,15 @@ Consider taking notes by hand even though you'll be watching on your computer.
 TAs outside of class. The advantages include: extra help on an assignment
 or preparation for exams; clarification of materials covered in lecture,
 discussion of comments on your work; discussion of this or related courses.
-Normally, I would have an open door on campus during drop-in hours. This
-semester, I'm not planning on sitting in a vacant Zoom session, so we will have
-to do these by appointment. I will always set aside our Thursday time for
-individual meetings, but can schedule at other times too. 
+I have an open door policy during my drop-in hours. I will be there, and you
+are welcome to come by for any reason. Your TAs have the same.
 
 **Changes:** I reserve the write to change this syllabus as the semester
 progresses. This is not a contract, but rather a document to guide expectations
 and clearly communicate weekly assignments. Please bring the syllabus with you
-to our class meetings. Or, keep up with it on the course website.
+to our class meetings. Or, keep up with it on the course website. We'll have to
+remain flexible as the outlook for our fourth pandemic semester is still
+uncertain. 
 
 
 
