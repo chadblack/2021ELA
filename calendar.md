@@ -39,6 +39,8 @@ within a week's topic and between weeks. Make sure to look at each week's
 title, and the brief comments comment for the week to help follow the arc of
 the semester.
 
+**Textbook Reading:** Preface: The Colonial Crucible. 
+
 
 ## Week Two: Premodern Societies I (Aug 24-26)
 
@@ -51,6 +53,9 @@ system than corn.
 
 This week we look at commonalities among most premodern societies, and
 then at the Maya.
+
+**Textbook Reading:** Native America
+
 
 **Tuesday: On Sedentary Societies**
 
@@ -79,6 +84,8 @@ this week, consider the influence of environmental factors on the
 emergence of these civilizations along with their religious and social
 practices.
 
+**Textbook Reading:** 
+
 **Tuesday: Mexica**
 
 * Burkhardt, Louise M. “Mexica Women on the Home Front: Housework and Religion in Aztec Mexico” in Schroeder, Susan et al. Indian Women of Early Mexico, (Norman: University of Oklahoma Press, 1997), pp. 25-54.
@@ -97,6 +104,8 @@ roots of conquest in the so-called “Old World.” Consider the culture of
 conquest cultivated by Isabella and Ferdinand in the 1490s, and also what
 lessons Iberians learned of conquest and expansion in their control of Atlantic
 Islands and the trade in enslaved captives with West Africa.
+
+**Textbook Reading:** Castile and Portugal; and Atlantic Africa
 
 **Tuesday: Across the Atlantic**
 
@@ -129,6 +138,8 @@ arguments made by Friars Montesinos, Pane, and de las Casas, and whether
 they offer an alternative colonial model, or an alternative to
 colonialism?
 
+**Textbook Reading:** The Iberian Imperial Dawn
+
 **Tuesday: Caribbean Conquests**
 
 * Christopher Columbus’s Log, excerpted in English. Focus on period after Oct. 11.
@@ -160,6 +171,8 @@ century, did native allies with the Spanish imagine themselves as
 collaborators in European domination? If not, what did they imagine they
 were doing?
 
+**Textbook Reading:** Native American Empires
+
 **Tuesday: Conquest Myths and Realities**
 
 * Matthew Restall, et. al., Mesoamerican Voices: Native-Language Writings from Colonial Mexico, Oaxaca, Yucatan, and Guatemala (Cambridge: 2005): Chapter 3.
@@ -186,6 +199,8 @@ uploaded to Canvas.
 
 ## Week Eight: The Order of Things (Oct 5-7)
 
+**Textbook Reading:** The Incomplete Conquest and The Religious Renaissance
+
 How do you build an empire on the collapsing foundation of native society? How did early modern imperialists confront the technological and practical challenges of ruling the span of the globe?
 
 **Tuesday: Building on collapsing ground**
@@ -201,6 +216,8 @@ How do you build an empire on the collapsing foundation of native society? How d
 **DUE: WEEKLY REPORT**
 
 ## Week Nine: Captivity and Enslavements (Oct 12-14)
+
+**Textbook Reading:** Black Communities
 
 From its inception, the Spanish and Portuguese colonial projects depended on the labor of enslaved Africans. As Kris Lane argues, slave owners even pinned their hopes for the afterlife on enslaved labor after death. Pay close attention this week to strategies that enslaved and free blacks pursued in colonial Latin America.
 
@@ -218,6 +235,8 @@ From its inception, the Spanish and Portuguese colonial projects depended on the
 
 Enslavement was not the only form of coerced labor exploited by Iberian empires. This week we consider the effects of encomienda and tribute on the integrity of native communities under Iberian rule. What significance is there in native communities pursuing their own legal strategies before the crown? How did tribute taxation and labor function? Were the New Laws successful?
 
+**Textbook Reading:** Native Communities
+
 **Tuesday: The Many Kinds of Economic Coercion**
 
 * Ward Stavig, The World of Túpac Amaru, Ch. 6.
@@ -231,6 +250,8 @@ Woodrow Borah, “The Indians of Tejupan Want to Raise Silk on Their Own,” Col
 ## Week Eleven: Love, Hate, and Social Reproduction (Oct 26-28)
 
 This week, we are focusing on family, sexuality, and social order. The customs and laws of Iberia and the Indies were deeply influential in the ordering (and disordering) of colonial society. The Conquest, and its aftermath, included exploitative and coercive relationships, and even regular marriages had their fair share of conflict between spouses. This week, we consider these things by looking at unnatural sexuality and witchcraft, as a way of also understanding what colonial society understood to be natural.
+
+**Textbook Reading:** Defining Deviancy and Daily Life in City and Country
 
 **Tuesday: Sex in the Archive**
 
@@ -247,6 +268,8 @@ This week, we are focusing on family, sexuality, and social order. The customs a
 ## Week Twelve: Disruption and Reform (Nov 2-4)
 
 This week, we look at the early transformations of the colonial relationship after the Spanish War for succession. Consider the reforms posited by José Galvez, and reactions to them that fall short of open rebellion.
+
+**Textbook Reading:** War and Reform
 
 **Tuesday: Reacting to Reforms**
 
@@ -269,6 +292,8 @@ rebellions not lead to Independence? What explains the complicated
 political identities articulated by their protagonists? What constituted
 legitimate authority by century's end?
 
+**Textbook Reading:** Late Colonial Life
+
 
 **Tuesday: Opening the Age of Rebellion**
 
@@ -284,6 +309,8 @@ legitimate authority by century's end?
 ## Week Fourteen: Independence (Nov 16-18)
 
 The crises of the Bourbon reforms never produced independence movements. That would take Napoleon invading Spain. We consider this week the crisis of 1808 caused by Napoleon, and how that set up the process of independence, which wouldn’t culminate for more than a decade!
+
+**Textbook Reading:** Independence
 
 **Tuesday: Did Anyone See It Coming?**
 
@@ -302,6 +329,8 @@ Safe travels. See your peoples. I'll only add something this week for outside
 of class if we fall behind.
 
 ## Week Sixteen: New World Orders (Nov 30)
+
+**Textbook Reading:** The Latin American Puzzle
 
 Let’s Wrap.It.Up. The new republics will be free of Iberian rule, and you’re about to be free of this semester….
 
