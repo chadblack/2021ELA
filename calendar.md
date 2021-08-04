@@ -6,18 +6,19 @@ title: calendar
 1. week
 {:toc}
 
-## Introduction (Aug 19) 
+## Week One: Introduction (Aug 19-21)
 
-Welcome (back) to the History of Early Latin America. This week, your only responsibility is to carefully read over the syllabus, the course requirements, and to plan for you participation in class! Make sure you understand what the coursework requirements are, and also some general recommendations on how to read, take notes, and think about weekly material.
+Welcome (back) to the History of Early Latin America. This week, your only
+responsibility is to carefully read over the syllabus, the course requirements,
+and to plan for you participation in class! Make sure you understand what the
+coursework requirements are, and also some general recommendations on how to
+read, take notes, and think about weekly material.
 
-This semester, I’ve decided not to assign a general textbook for this
-class. I hope that the decision will save you some money, but it also puts
-the onus on you to join our synchronous sessions and follow through with
-the other work. My lectures will essentially function as your textbook– providing the overview necessary to situate and understand your readings. Again, it is imperative that you come to class, and that you take notes. You are responsible for everything we discuss in the lecture. This means, you really need to take notes.
-
-If you struggle with note-taking, or have never taken a humanities lecture course before, you will need to think about, and put effort into improving your note-taking. Take a look at these resources, and find a system that works best for you:
-
-
+This is quite obviously a very lecture intensive class. Your lecture notes will
+be very important for your weekly assignments. If you struggle with note-taking, or have never taken a humanities lecture
+course before, you will need to think about, and put effort into improving your
+note-taking. Take a look at these resources, and find a system that works best
+for you:
 
 1. [Effective Note-taking in
    Lectures](https://www.cc-seas.columbia.edu/node/31875).  
@@ -32,33 +33,39 @@ tools to highlight and markup the assignments. We will be discussing this
 over the course of the semester, especially how to approach strange texts
 with unfamiliar concepts.
 
+Your most fundamental skill for this semester will be creatively connecting the
+lectures and the readings, looking for thematic similarities or arguments both
+within a week's topic and between weeks. Make sure to look at each week's
+title, and the brief comments comment for the week to help follow the arc of
+the semester.
 
-## Premodern Societies I (Aug 24)
 
-The immigrants to what we now call the Americas by land and cruising the coasts. The civilizations that evolved from their wanderings were highly complex and advanced. We begin the semester considering their emergence, and the revolutionary domestication of Zea mays that made it possible. To this day, there is no single crop or animal more central to the US economy and its food system than corn.
+## Week Two: Premodern Societies I (Aug 24-26)
+
+The immigrants to what we now call the Americas arrived by land and cruising the
+coasts. The civilizations that evolved from their wanderings were highly
+complex and advanced. We begin the semester considering their emergence, and
+the revolutionary domestication of Zea mays that made it possible. To this day,
+there is no single crop or animal more central to the US economy and its food
+system than corn.
 
 This week we look at commonalities among most premodern societies, and
 then at the Maya.
 
-**Live Lecture:** On Sedentary Societies
+**Tuesday: On Sedentary Societies**
 
 * Mann, Charles C. "1491” The Atlantic Monthly (March 2002).
 
-## **The Maya** (Aug 26)
-
-Please watch [Popol
-Vuh](https://video-alexanderstreet-com.proxy.lib.utk.edu/watch/popol-vuh),
-and my own brief lecture on Canvas.
+**Thursday: The Maya**
 
 * Thompson, J. Eric. “The Meaning of Maize for the Maya.” in Gilbert M. Joseph and Timothy J. Henderson, eds., The Mexico Reader: History, Culture, Politics (Durham: Duke University Press, 2002), pp. 86-91.  
 
 * Anonymous. “The Popul Vuh.” In Joseph and Henderson, eds., The Mexico Reader, pp. 79-85.
 
-
 **DUE: WEEKLY REPORT**
 
 
-## Premodern Societies II (Aug 31)
+## Week Three: Premodern Societies II (Aug 31-Sep 2)
 
 The collapse of Classical Maya society did not mean the disappearance of
 the Maya. Indeed, Maya-speaking communities continue to form integral
@@ -72,21 +79,26 @@ this week, consider the influence of environmental factors on the
 emergence of these civilizations along with their religious and social
 practices.
 
-**Live:** Mexica
+**Tuesday: Mexica**
 
 * Burkhardt, Louise M. “Mexica Women on the Home Front: Housework and Religion in Aztec Mexico” in Schroeder, Susan et al. Indian Women of Early Mexico, (Norman: University of Oklahoma Press, 1997), pp. 25-54.
 
-**Asynch:** Inka
+**Thursday: Inka**
 
 * Mary Strong, Art, Nature, and Religion in the Central Andes (Austin: Univ. of Texas Press, 2012): pp. 17-58.
 
 **DUE: WEEKLY REPORT**
 
-## Premodern Societies III  (Sep 8)
+## Week Four: Premodern Societies III  (Sep 7-9)
 
-With a foundation in the pre-Conquest Americas, this week we turn to the Iberian Peninsula, the close-in Atlantic islands, and to Africa to look at the roots of conquest in the so-called “Old World.” Consider the culture of conquest cultivated by Isabella and Ferdinand in the 1490s, and also what lessons Iberians learned of conquest and expansion in their control of Atlantic Islands and the trade in enslaved captives with West Africa.
+With a foundation in the pre-Conquest Americas, this week we turn to the
+Iberian Peninsula, the close-in Atlantic islands, and to Africa to look at the
+roots of conquest in the so-called “Old World.” Consider the culture of
+conquest cultivated by Isabella and Ferdinand in the 1490s, and also what
+lessons Iberians learned of conquest and expansion in their control of Atlantic
+Islands and the trade in enslaved captives with West Africa.
 
-**Live:** Across the Atlantic
+**Tuesday: Across the Atlantic**
 
 * “Las Siete Partidas: Laws on Jews.”
 
@@ -96,14 +108,14 @@ With a foundation in the pre-Conquest Americas, this week we turn to the Iberian
 
 * “Decree of Expulsion of the Jews (1492)” in Cowans, Early Modern Spain: 20-23.
 
-**Asynch:** 
+**Thursday: African Histories** 
 
 * John K. Thornton, “The African Background,” A Cultural History of the Atlantic World, 1250–1820 (Cambridge Univ. Press, 2012), pp. 60-100.
 
 
 **DUE: WEEKLY REPORT**
 
-## The Early Conquest (Sep 15) 
+## Week Five: The Early Conquest (Sep 14-16)
 
 Prior to sailing across the Atlantic, Columbus learned from Portuguese and
 Spanish expansion into the Atlantic Islands and down the coast of Africa
@@ -117,13 +129,13 @@ arguments made by Friars Montesinos, Pane, and de las Casas, and whether
 they offer an alternative colonial model, or an alternative to
 colonialism?
 
-**Live:** Caribbean Conquests
+**Tuesday: Caribbean Conquests**
 
 * Christopher Columbus’s Log, excerpted in English. Focus on period after Oct. 11.
 
 * The Requerimiento
 
-**Asynch:** The Critique
+**Thursday: The Critique**
 
 Here are three critiques from early on, and Laws that the Crown
 promulgated in response.
@@ -138,7 +150,7 @@ promulgated in response.
 
 **DUE: WEEKLY REPORT**
 
-## On the Mainland (Sep 22)
+## Week Six: On the Mainland (Sep 21-23)
 
 In the 1520s and 1530s, the Spanish Empire expanded to cover much of
 Central and South America. At the time, Spaniards and their native allies
@@ -148,7 +160,7 @@ century, did native allies with the Spanish imagine themselves as
 collaborators in European domination? If not, what did they imagine they
 were doing?
 
-**Live:** Conquest Myths and Realities
+**Tuesday: Conquest Myths and Realities**
 
 * Matthew Restall, et. al., Mesoamerican Voices: Native-Language Writings from Colonial Mexico, Oaxaca, Yucatan, and Guatemala (Cambridge: 2005): Chapter 3.
 
@@ -160,95 +172,96 @@ were doing?
   version of the Conquest works hard to be faithful to the visual world and
   recent historical scholarship on Cortes’s march from the sea.
 
-**Asynch:**
+**Thursday: On the Planes of Cajamarca**
 
 * Patricia Seed, “Failing to Marvel: Atahualpa’s Encounter with the Word,”
   Latin American Research Review 26.1 (1991): 7-32.
 
 **DUE: WEEKLY REPORT**
 
-## Conquest On-Going (Sep 29)
+## Week Seven: Take Home Exam Due (Sep 28) and Fall Break (Sep 30)
 
-Did the conquest end? Does it continue today in some form?
+Your take home exam is due by the end of day on Tuesday, September 28th,
+uploaded to Canvas.
 
-**Live:** Oñate's Foot
-
-* no new readings.
-
-**Due Friday by midnight: Take-Home Exam**
-
-## The Order of Things (Oct 6) 
+## Week Eight: The Order of Things (Oct 5-7)
 
 How do you build an empire on the collapsing foundation of native society? How did early modern imperialists confront the technological and practical challenges of ruling the span of the globe?
 
-**Live:** Building on collapsing ground
+**Tuesday: Building on collapsing ground**
 
 * Suzanne Alchon, “Colonialism, Disease, and the Spanish Conquest of the Carribbean, Mesoamerica, and the Central Andes,” in A Pest in the Land: New World Epidemics in a Global Perspective (Univ. of NM Press, 2003): 60-82.
 
 * J.L Phelan, “Authority and Flexibility in the Spanish Imperial Bureaucracy” Administrative Science Quarterly, Vol. 5, No. 1, Special Issue on Comparative Public Administration. (Jun., 1960), pp. 47-65.
 
-**Asynch:**
+**Thursday: Church in State**
 
 * Martin Nesvig, Promiscuous Power, “Burning Down the House, in Which the spiritual Conquistadors Go to War with Each Other.”
 
 **DUE: WEEKLY REPORT**
 
-## Captivity and Enslavements (Oct 13)  
+## Week Nine: Captivity and Enslavements (Oct 12-14)
 
 From its inception, the Spanish and Portuguese colonial projects depended on the labor of enslaved Africans. As Kris Lane argues, slave owners even pinned their hopes for the afterlife on enslaved labor after death. Pay close attention this week to strategies that enslaved and free blacks pursued in colonial Latin America.
 
-**Live:** A Society Built on Slavery
+**Tuesday: A Society Built on Slavery**
 
 * Kris Lane, “Captivity and Redemption: Aspects of Slave Life in early Colonial Quito and Popoyan,” The Americas 57.2 (2000), 225-246.
 
-**Aynch:** Jane Landers, “Felipe Edimboro Sues for Manumission, Don Francisco Xavier Sánchez contests (Florida, 1794),” in Colonial Lives, pp. 249-268.
+**Thursday: Brazilian Development**
+
+* Jane Landers, “Felipe Edimboro Sues for Manumission, Don Francisco Xavier Sánchez contests (Florida, 1794),” in Colonial Lives, pp. 249-268.
 
 **DUE: WEEKLY REPORT**
 
-## Native Labor and Accumulation (Oct 20)
+## Week Ten: Native Labor and Accumulation (Oct 19-21)
 
 Enslavement was not the only form of coerced labor exploited by Iberian empires. This week we consider the effects of encomienda and tribute on the integrity of native communities under Iberian rule. What significance is there in native communities pursuing their own legal strategies before the crown? How did tribute taxation and labor function? Were the New Laws successful?
 
-**Live:** The Many Kinds of Economic Coercion
+**Tuesday: The Many Kinds of Economic Coercion**
 
 * Ward Stavig, The World of Túpac Amaru, Ch. 6.
 
-**Asynch:**
+**Thursday: Wither the Two Republics?**
 
 Woodrow Borah, “The Indians of Tejupan Want to Raise Silk on Their Own,” Colonial Lives, 6-10.
 
 **DUE: WEEKLY REPORT**
 
-## Love, Hate, and Social Reproduction (Oct 27)
+## Week Eleven: Love, Hate, and Social Reproduction (Oct 26-28)
 
 This week, we are focusing on family, sexuality, and social order. The customs and laws of Iberia and the Indies were deeply influential in the ordering (and disordering) of colonial society. The Conquest, and its aftermath, included exploitative and coercive relationships, and even regular marriages had their fair share of conflict between spouses. This week, we consider these things by looking at unnatural sexuality and witchcraft, as a way of also understanding what colonial society understood to be natural.
 
-**Live:** Sex in the Archive
+**Tuesday: Sex in the Archive**
 
 * Zeb Tortorici, “Impulses in the Archive: Misinscription and Voyeurism,” Chapter 2 in Sins Against Nature (Duke University Press, 2018).
 
 
-**Asych:**
+**Thursday: Is it Love, or Magic?**
 
 * Ruth Behar, “Sexual Witchcraft, Colonialism, and Women’s Powers,” in Sexuality and Marriage in Colonial Latin America. Lavrin, ed. Lincoln: Univ. of Nebraska Press, 1992.
 
 
 **DUE: WEEKLY REPORT**
 
-## Disruption and Reform (Nov 3)
+## Week Twelve: Disruption and Reform (Nov 2-4)
 
 This week, we look at the early transformations of the colonial relationship after the Spanish War for succession. Consider the reforms posited by José Galvez, and reactions to them that fall short of open rebellion.
 
-**Live:** 
+**Tuesday: Reacting to Reforms**
 
 * “José de Gálvez’s Decrees for the King’s Subjects in Mexico (1769, 1778)” in Mills, et. al., Colonial Latin America, pp. 270-273.
 
 * Pamela Voekel, “Peeing on the Palace: Bodily Resistance to Bourbon Reforms in Mexico City,” Journal of Historical Sociology, Vol. 5 No. 2 (June 1992): 183-208.
 
+**Thursday: No class.**
+
+Finish your film review, which must be smart, clever, and plugged in to this
+semester's themes.
 
 **DUE: FILM REVIEW**
 
-## Rebellion and Reaction (Nov 10)
+## Week Thirteen: Rebellion and Reaction (Nov 9-11)
 
 By the 1780s, part of the Spanish Empire erupted into open rebellion
 against the economic reforms pushed afer the Seven Years War. Why did these
@@ -257,30 +270,42 @@ political identities articulated by their protagonists? What constituted
 legitimate authority by century's end?
 
 
+**Tuesday: Opening the Age of Rebellion**
+
 * Elizabeth Penry, “Letters of Insurrection: The Rebellion of the Communities (Charcas, 1781)” in Colonial Lives: 201-215.
+
+**Thursday: Insurrection and Aftermath**
 
 * David T. Garrett, “His Majesty’s Most Loyal Vassals”: The Indian Nobility and Túpac Amaru,” Hispanic American Historical Review, 84:4 (2004): 575-617. (Available through the library website.)
 
 
 **DUE: WEEKLY REPORT**
 
-## Independence (Nov 17)
+## Week Fourteen: Independence (Nov 16-18)
 
 The crises of the Bourbon reforms never produced independence movements. That would take Napoleon invading Spain. We consider this week the crisis of 1808 caused by Napoleon, and how that set up the process of independence, which wouldn’t culminate for more than a decade!
+
+**Tuesday: Did Anyone See It Coming?**
 
 * Jaime E. Rodríguez O., “New Spain and the 1808 Crisis of Spanish Monarchy,”
 Mexican Studies/Estudios Mexicanos, 24.2 (Summer 2008): 245-287.
 
+**Thursday: On to War**
+
+* Reading TBD.
 
 **DUE: WEEKLY REPORT**
 
+## Week Fifteen: Thanksgiving (Nov 23)
 
+Safe travels. See your peoples. I'll only add something this week for outside
+of class if we fall behind.
 
-## New World Orders (Nov 24)
+## Week Sixteen: New World Orders (Nov 30)
 
 Let’s Wrap.It.Up. The new republics will be free of Iberian rule, and you’re about to be free of this semester….
 
-**Final Due:** December 3rd at 6:00pm.
+**Final Due:** December 6rd at 6:00pm.
 
 
 

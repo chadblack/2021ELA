@@ -15,8 +15,8 @@ Fall 2021
 **Drop-in Hours:** Wednesday 2:30-4:30 or by appointment.
 
 **TA Info:**  
-Jane Chang,  jchang20-at-vols.utk.edu
-Kyle Vratarich, kvratari -at- vols.utk.edu
+Jane Chang,  jchang20-at-vols.utk.edu  
+Kyle Vratarich, kvratari -at- vols.utk.edu  
 
 In 1492, Columbus sailed the ocean blue and discovered or destroyed, conquered
 or civilized the Americas. Sixty years later, in 1552, López de Gómara, the
