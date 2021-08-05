@@ -84,7 +84,7 @@ on average 5-9 people). This turns a classroom of 100+ people into
 a potentially high-risk situation. Wearing a mask for 75 minutes indoors is
 a small price to pay to be back in University community.
 
-**Attendance:** Attendance is mandatory. If you cannot attend, please email the
+**Attendance:** Attendance is mandatory. If you cannot attend, please email
 Dr. Black or your TA ahead of time. We're not making an Inquisition into your
 absences, so the reasons you can't attend are not as important as giving us the
 heads up. If you have *any* symptoms or have been exposed to COVID, please do
