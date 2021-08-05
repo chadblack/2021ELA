@@ -76,10 +76,19 @@ students with disabilities needing appropriate academic adjustments should
 contact me as soon as possible to ensure that your needs are met in a timely
 manner with appropriate documentation.
 
+**Masks:** The University is currently requiring students, faculty, and staff
+to mask indoors. We will comply with this requirement. The Delta variant of
+this virus is extremely contagious, with an R0 somewhere [between
+5-9](https://www.sfchronicle.com/health/article/CDC-says-the-delta-variant-is-as-contagious-as-16356370.php) (one person will infect
+on average 5-9 people). This turns a classroom of 100+ people into
+a potentially high-risk situation. Wearing a mask for 75 minutes indoors is
+a small price to pay to be back in University community.
+
 **Attendance:** Attendance is mandatory. If you cannot attend, please email the
 Dr. Black or your TA ahead of time. We're not making an Inquisition into your
 absences, so the reasons you can't attend are not as important as giving us the
-heads up.
+heads up. If you have *any* symptoms or have been exposed to COVID, please do
+not come to class! Just send is a quick email, and get tested.
 
 
 **Deadlines:** Assignments must uploaded to Canvas by the end of the day on
