@@ -5,8 +5,9 @@ title: assignments
 
 ## weekly reports: (40%)
 
-For ten of the semester's weeks, students will write a 1 page paper that synthesizes the readings and
-our synchronous and asynchronous sessions. Weekly Reports are due by midnight
+For nine of the semester's weeks, students will write a 1 page paper that synthesizes the readings and
+our synchronous and asynchronous sessions. There are eleven weekly report
+assignments. We will drop the lowest two grades. Weekly Reports are due by midnight
 on Friday, uploaded onto Canvas. The report will respond to all four of the
 following prompts:
 
