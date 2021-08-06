@@ -65,7 +65,10 @@ then at the Maya.
 
 * Thompson, J. Eric. “The Meaning of Maize for the Maya.” in Gilbert M. Joseph and Timothy J. Henderson, eds., The Mexico Reader: History, Culture, Politics (Durham: Duke University Press, 2002), pp. 86-91.  
 
-* Anonymous. “The Popul Vuh.” In Joseph and Henderson, eds., The Mexico Reader, pp. 79-85.
+* Anonymous. “The Popol Vuh.” In Joseph and Henderson, eds., The Mexico Reader, pp. 79-85.
+
+* Please watch [this short
+  video](https://utk.idm.oclc.org/login?url=https://video.alexanderstreet.com/watch/popol-vuh?account_id=14766&usage_group_id=95393) that animates part of the Popol vuh.
 
 **DUE: WEEKLY REPORT**
 
