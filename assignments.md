@@ -3,7 +3,7 @@ layout: page
 title: assignments
 ---
 
-## weekly reports: (30%)
+## weekly reports: (40%)
 
 For ten of the semester's weeks, students will write a 1 page paper that synthesizes the readings and
 our synchronous and asynchronous sessions. Weekly Reports are due by midnight
@@ -42,13 +42,13 @@ following prompts:
 
 The entire report will be no more than about one typed, single-spaced page.
 
-## take home exams (25% each)
+## take home exams (35%)
 
 There will be two take home exams- roughly a midterm and final. You will need
 to write a well-formed essay from a selection of questions that I will provide
 you. Your essay must draw off of only our readings and sessions.
 
-## film reaction (20%)
+## film reaction (25%)
 
 We have feature length films this semester, [*La Otra
 Conquista*](), [*Zama*](https://www.imdb.com/title/tt3409848/), and [*También
