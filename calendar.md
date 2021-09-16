@@ -137,7 +137,7 @@ sugar for export to Europe, and improving sea-going technology were all in
 place before he received Royal support. This week, we look at the
 transplantation of an Atlantic model of conquest and exploitation to the
 Caribbean, and at its religious critics. Pay close attention to the
-arguments made by Friars Montesinos, Pane, and de las Casas, and whether
+arguments made by Friars Montesinos, and Pane, and whether
 they offer an alternative colonial model, or an alternative to
 colonialism?
 
@@ -151,10 +151,8 @@ colonialism?
 
 **Thursday: The Critique**
 
-Here are three critiques from early on, and Laws that the Crown
+Here are two critiques from early on, and Laws that the Crown
 promulgated in response.
-
-* Bartolomé de Las Casas, Brief Account of the Devastation of the Indies, excerpt.
 
 * Antonio Montesinos, “Advent Sermon”
 
