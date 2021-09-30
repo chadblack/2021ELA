@@ -214,7 +214,8 @@ How do you build an empire on the collapsing foundation of native society? How d
 
 * Martin Nesvig, Promiscuous Power, “Burning Down the House, in Which the spiritual Conquistadors Go to War with Each Other.”
 
-**DUE: WEEKLY REPORT**
+**DUE: Nothing. Take the week to get caught up with the middle of your
+semester.**
 
 ## Week Nine: Captivity and Enslavements (Oct 12-14)
 
