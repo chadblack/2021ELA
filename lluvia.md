@@ -32,7 +32,7 @@ in for Taínos, and with the attitudes of the crew.
 
 Your assignment is to write a critical review of *Even the Rain* that evaluates
 the historical merits of the film. In order to do this, you will need to draw
-on the assigned readings from class. You must use the two readings assigned
+on the assigned readings from class. You must use two readings assigned
 from class. (No outside readings, though. Let’s keep it focused on the
 resources we’ve used in class.) Each paper should include a short overview of
 the plot, the important characters, and a discussion of the historical themes
