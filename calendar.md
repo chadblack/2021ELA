@@ -336,7 +336,7 @@ of class if we fall behind.
 
 Let’s Wrap.It.Up. The new republics will be free of Iberian rule, and you’re about to be free of this semester….
 
-**Final Due:** December 6rd at 6:00pm.
+**Final Due:** December 6th at 6:00pm.
 
 
 
